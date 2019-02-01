@@ -1,0 +1,15 @@
+[0901/033807.412:ERROR:file_io_win.cc(161)] CreateFile C:\Users\L\AppData\Local\Temp\scoped_dir6648_28464\Crashpad\settings.dat: 系统找不到指定的路径。 (0x3)
+[0901/033807.413:ERROR:file_io_win.cc(170)] CreateFile C:\Users\L\AppData\Local\Temp\scoped_dir6648_28464\Crashpad\reports\0f968939-0a53-4f3d-aab4-22d51cb2b749.dmp: 系统找不到指定的路径。 (0x3)
+[0901/033807.413:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0901/104202.916:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0901/104202.916:ERROR:exception_snapshot_win.cc(88)] thread ID 9300 not found in process
+[0901/104202.916:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0902/000313.717:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0902/000313.948:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0902/000314.236:ERROR:exception_snapshot_win.cc(88)] thread ID 27572 not found in process
+[0902/000314.236:ERROR:exception_snapshot_win.cc(88)] thread ID 27608 not found in process
+[0902/000314.236:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0902/000314.236:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0902/063830.017:ERROR:file_io_win.cc(161)] CreateFile C:\Users\L\AppData\Local\Temp\scoped_dir27636_14531\Crashpad\settings.dat: 系统找不到指定的路径。 (0x3)
+[0902/063830.019:ERROR:file_io_win.cc(170)] CreateFile C:\Users\L\AppData\Local\Temp\scoped_dir27636_14531\Crashpad\reports\0ab7109e-e363-4629-bbd7-214d050ff00b.dmp: 系统找不到指定的路径。 (0x3)
+[0902/063830.019:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
